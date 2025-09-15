@@ -1,0 +1,484 @@
+{
+  "home": {
+    "hero": {
+      "heading-title-1": "All Children Are",
+      "heading-title-2": "Our Children ",
+      "heading-desc": "Providing compassionate and effective bilingual ABA therapy services for children with Autism, fostering growth and supporting families every step of the way.",
+      "button-1": "Start Your Journey",
+      "button-2": "Learn More",
+      "highlights": {
+        "highlight-1": {
+          "title": "500+",
+          "desc": "Families Helped"
+        },
+        "highlight-2": {
+          "title": "15+",
+          "desc": "Years of Experience"
+        },
+        "highlight-3": {
+          "title": "95%",
+          "desc": "Success Rate"
+        }
+      }
+    },
+    "services": {
+      "heading-title": "Understanding Your Child's Unique Needs",
+      "heading-desc": "Our journey begins with a deep understanding of your child's strengths, challenges, and aspirations. We conduct thorough assessments to create personalized therapy plans that foster growth and development in a supportive environment.",
+      "services": {
+        "service-1": {
+          "title": "Applied Behavior Analysis (ABA)",
+          "desc": "Evidence-based therapy focused on improving communication, social skills, and reducing challenging behaviors."
+        },
+        "service-2": {
+          "title": "Assessment & Progress",
+          "desc": "Personalized evaluations and ongoing progress tracking to guide effective, individualized therapy plans."
+        },
+        "service-3": {
+          "title": "Caregiver Resources",
+          "desc": "Guidance, training, and practical tools to support caregivers in building consistent routines at home."
+        },
+        "service-4": {
+          "title": "Individualized Assessment",
+          "desc": "Comprehensive evaluation and personalized goal setting tailored to each child’s unique strengths and needs."
+        },
+        "service-5": {
+          "title": "Family-Centered Planning",
+          "desc": "Collaborative approach that involves families in every step, ensuring goals align with daily life and priorities."
+        },
+        "service-6": {
+          "title": "Culturally Sensitive Support",
+          "desc": "Bilingual services and respect for cultural values, creating an inclusive and supportive environment for all families."
+        }
+      }
+    },
+    "about": {
+      "heading-title": "Empowering Every Child",
+      "who": {
+        "title": "Who we are",
+        "desc-1": " is a private agency formed by ABA Behavior Certified therapists Behavior Analysts experienced in providing the highest quality to children and their families. At Wingless Angels, we provide high-level quality services for children with Autism and their families. We focus on various interventions aiming on the individual’s specific needs, ranging from daily living skills to academic skills. Additionally, we offer extensive parent training by a Board Certified Behavior Analyst.",
+        "desc-2": "We integrate evidence-based practices with a compassionate touch, ensuring that therapy is not only effective but also engaging and positive for your child. Our team is dedicated to building strong relationships with both children and parents.",
+        "quote": "“Hope is being able to see that there is light despite all of the darkness.” – Desmond Tutu"
+      },
+      "promise": {
+        "title": "Our Promise",
+        "desc-1": "We are dedicated to creating personalized behavioral programs that foster independence and help our clients reach their fullest potential. Just as a tree sheds its leaves to renew itself, we strive to support our clients in achieving regeneration and resilience. Every child is unique and different in their own way. When meeting the families, we focus on the specific areas and needs of the child. From there, we develop a plan that will target those areas. These goals will change as the areas are met, developing into new goals to maximize to their fullest potential. We work side by side with the caregivers providing all necessary steps in developing and reaching these goals.",
+        "desc-2": "The impact of effective ABA therapy extends beyond skill development; it empowers children to participate more fully in their communities and achieve greater independence. We celebrate every milestone, big or small.",
+        "desc-3": "Families consistently report improved communication, reduced challenging behaviors, and increased confidence in their children. Our services are designed to bring positive, lasting change to your family's life.",
+        "caption": "Our dedicated team working with a child in a supportive ABA therapy session."
+      }
+    },
+    "testimonials": {
+      "heading-title": "What our families say",
+      "testimonial-1": {
+        "desc": "“Wingless Angels has been a beacon of hope for our family. Their bilingual support and compassionate therapists have made an incredible difference in our son's progress.”",
+        "author": "Maria Rodriguez, Parent"
+      },
+      "cta": {
+        "title-1": "Creating futures that inspire ",
+        "title-2": " and deliver hope.",
+        "button": "Start Your Journey"
+      }
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Our Services",
+      "desc": "We customize our services based on our clients’ needs and circumstances, offering bilingual support to ensure families feel fully understood. Our goal is to target behavioral difficulties through the use of data analysis and implement treatment plans to ensure that the child masters important skills to achieve their highest potential.",
+      "service-1": {
+        "title": "Aggression",
+        "sub-title": "Includes physical or verbal behaviors intended to cause harm, such as hitting, kicking, biting, or yelling."
+      },
+      "service-2": {
+        "title": "Self-injurious behaviors",
+        "sub-title": "Actions a person directs toward themselves that result in harm, such as head-banging, self-biting, or scratching."
+      },
+      "service-3": {
+        "title": "Property destruction",
+        "sub-title": "Damaging or breaking objects, throwing items, or otherwise destroying property in the environment."
+      },
+      "service-4": {
+        "title": "Stereotypic behaviors",
+        "sub-title": "Repetitive movements or vocalizations such as hand-flapping, rocking, or repeating certain phrases."
+      },
+      "service-5": {
+        "title": "Inappropriate social skills",
+        "sub-title": "Difficulties with age-appropriate social interactions, including poor boundaries, limited communication, or challenges in forming relationships."
+      },
+      "service-6": {
+        "title": "Elopement",
+        "sub-title": "Leaving a designated area without permission or supervision, often creating safety risks."
+      },
+      "service-7": {
+        "title": "Hyperactive and disruptive behaviors",
+        "sub-title": "Excessive activity, restlessness, or behaviors that interfere with learning and daily routines."
+      },
+      "service-8": {
+        "title": "Tantrums",
+        "sub-title": "Emotional outbursts that may include crying, screaming, refusal, or physical behaviors when demands are placed or denied access."
+      },
+      "service-9": {
+        "title": "Among others",
+        "sub-title": "We also address additional challenging behaviors and tailor strategies to meet each client’s unique needs."
+      }
+    },
+    "how": {
+      "title": "How We Do It",
+      "how-1": {
+        "title": "Individualized Assessment",
+        "sub-title": "Every child is unique. We begin by meeting with families to understand the child’s specific strengths, challenges, and needs."
+      },
+      "how-2": {
+        "title": "Goal Development",
+        "sub-title": "Together we create a personalized plan that targets growth areas. Goals evolve as progress is made to maximize each child’s potential."
+      },
+      "how-3": {
+        "title": "Family Collaboration",
+        "sub-title": "We work side by side with caregivers, providing guidance and support every step of the way to achieve lasting results."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in Touch",
+      "sub-title": "Ready to begin your journey? We're here to answer your questions and help you take the first step toward comprehensive autism support."
+    },
+    "contact-form": {
+      "form": {
+        "title": "Send Us a Message",
+        "subtitle": "Fill out the form below and we'll get back to you within 24 hours.",
+        "first-name": "First Name",
+        "last-name": "Last Name",
+        "email": "Email",
+        "phone-number": "Phone Number",
+        "subject": "Subject",
+        "message": "Message",
+        "button": "Send Message"
+      },
+      "location": {
+        "title": "Our Location",
+        "center": "Wingless Angels Center",
+        "center-desc": "Located in the heart of downtown, with easy parking and public transit access.",
+        "button": "Get Directions"
+      },
+      "hours": {
+        "title": "Office Hours",
+        "weekdays": "Monday - Friday",
+        "saturday": "Saturday",
+        "sunday": "Sunday",
+        "holidays": "Holidays",
+        "emergency-desc": "Emergency Calls Only"
+      },
+      "support": {
+        "title": "Emergency Support",
+        "subtitle": "If you're experiencing a crisis or need immediate support, don't hesitate to reach out. We provide emergency consultation services and can connect you with immediate resources.",
+        "button": "Call Crisis Line: (555) 911-HELP"
+      }
+    },
+    "contact-methods": {
+      "title": "Other Ways to Reach Us",
+      "subtitle": "Choose the contact method that works best for you. We're committed to responding promptly.",
+      "cards": {
+        "card-1": {
+          "title": "Phone",
+          "method": "(555) 123-4567",
+          "method-desc": "Mon-Fri: 8AM-6PM",
+          "cta": "Call us for immediate assistance or to schedule an appointment"
+        },
+        "card-2": {
+          "title": "Email",
+          "method": "info@autismcare.com",
+          "method-desc": "24-48 hour response",
+          "cta": "Send us detailed questions or requests for information"
+        },
+        "card-3": {
+          "title": "Crisis Hotline",
+          "method": "(555) 911-HELP",
+          "method-desc": "Available 24/7",
+          "cta": "Immediate support for urgent situations and crisis intervention"
+        },
+        "card-4": {
+          "title": "Online Booking",
+          "method": "Schedule Online",
+          "method-desc": "Available 24/7",
+          "cta": "Book consultations and appointments at your convenience"
+        },
+        "button": "Contact Now"
+      },
+      "hours": {
+        "title": "Office Hours",
+        "weekdays": "Monday - Friday",
+        "saturday": "Saturday",
+        "sunday": "Sunday",
+        "holidays": "Holidays",
+        "emergency-desc": "Emergency Calls Only"
+      },
+      "support": {
+        "title": "Emergency Support",
+        "subtitle": "If you're experiencing a crisis or need immediate support, don't hesitate to reach out. We provide emergency consultation services and can connect you with immediate resources.",
+        "button": "Call Crisis Line: (555) 911-HELP"
+      }
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Get quick answers to common questions about our services and processes.",
+      "cards": {
+        "card-1": {
+          "title": "How do I schedule an initial consultation?",
+          "desc": "You can call us, send an email, or use our online booking system. Initial consultations typically last 90 minutes."
+        },
+        "card-2": {
+          "title": "Do you accept insurance?",
+          "desc": "Yes, we accept most major insurance plans. Our team can help verify your benefits and explain coverage options."
+        },
+        "card-3": {
+          "title": "What should I bring to the first appointment?",
+          "desc": "Please bring any previous evaluations, medical records, and a list of current medications or supplements."
+        },
+        "card-4": {
+          "title": "Do you provide services for adults with autism?",
+          "desc": "Yes, we provide comprehensive services for individuals of all ages, from early childhood through adulthood."
+        }
+      },
+      "hours": {
+        "title": "Office Hours",
+        "weekdays": "Monday - Friday",
+        "saturday": "Saturday",
+        "sunday": "Sunday",
+        "holidays": "Holidays",
+        "emergency-desc": "Emergency Calls Only"
+      },
+      "support": {
+        "title": "Emergency Support",
+        "subtitle": "If you're experiencing a crisis or need immediate support, don't hesitate to reach out. We provide emergency consultation services and can connect you with immediate resources.",
+        "button": "Call Crisis Line: (555) 911-HELP"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Begin Your Journey?",
+    "sub-title": "Contact us today to schedule a consultation and learn how we can support you and your family on this important journey.",
+    "button": "Schedule Consultation"
+  },
+  "about": {
+    "hero": {
+      "title": "Wingless Angels behavioral services",
+      "sub-title": "At Wingless Angels we provide applied behavior analysis by highly trained and skilled staff, such as Board Certified Behavior Analyst (BCBA), Board Certified Assistant Behavior Analyst (BCaBA), and Registered Behavior Technicians (RBT).",
+      "stats": {
+        "stat-1": {
+          "title": "2012",
+          "desc": "Business was founded"
+        },
+        "stat-2": {
+          "title": "120+",
+          "desc": "People on the team"
+        },
+        "stat-3": {
+          "title": "250k",
+          "desc": "Users on the platform"
+        },
+        "stat-4": {
+          "title": "$70M",
+          "desc": "Paid out to creators"
+        }
+      }
+    },
+    "goal": {
+      "title": "Our Goal",
+      "sub-title-1": "Our goal is to empower our clients by creating personalized behavioral programs that foster independence and utilize best practices to help them achieve their fullest potential.",
+      "sub-title-2": "We work hand in hand with families, educators, and communities to ensure that progress extends beyond therapy sessions. By building strong partnerships, we help create consistent environments where our clients can thrive at home, in school, and in daily life."
+    },
+    "mission": {
+      "title": "Our mission",
+      "sub-title-1": "Our mission is to make a lasting and positive impact on the lives of the individuals we serve by providing evidence-based, compassionate, and personalized behavioral services.",
+      "sub-title-2": "Guided by the science of Applied Behavior Analysis, we are dedicated to delivering exceptional care through a team of skilled and experienced professionals. By partnering closely with families and communities, we ensure that every plan is meaningful, effective, and designed to empower our clients to achieve their fullest potential."
+    }
+  },
+  "footer": {
+    "services": {
+      "title": "Services",
+      "item-1": "Software Development",
+      "item-2": "Cloud Solutions",
+      "item-3": "IT Support",
+      "item-4": "API Integration"
+    },
+    "resources": {
+      "title": "Resources",
+      "item-1": "Blog",
+      "item-2": "FAQs",
+      "item-3": "Tutorials",
+      "item-4": "Documentation"
+    },
+    "support": {
+      "title": "Support",
+      "item-1": "Contact",
+      "item-2": "Community",
+      "item-3": "API Documentation"
+    },
+    "company": {
+      "title": "Company",
+      "item-1": "About Us",
+      "item-2": "Our Story",
+      "item-3": "Certifications"
+    },
+    "terms": "Terms",
+    "privacy": "Privacy Policy"
+  },
+  "privacy-policy": {
+    "title": "Privacy Policy for Byte Precision ",
+    "subtitle": "Effective Date: January 1, 2025",
+    "welcome": "Welcome to Byte Precision (\"we,\" \"our,\" or \"us\"). Your privacy is of utmost importance to us. This Privacy Policy outlines how we collect, use, share, and protect your personal information when you visit our website (\"Site\") at byteprecisionit.com or use our IT and software services for Small & Medium Enterprises (SMEs). By accessing our Site or services, you agree to the practices described in this Privacy Policy.",
+    "point-1": {
+      "title": "1. Information We Collect",
+      "subtitle": "We collect personal and non-personal information to provide and improve our services. This includes:",
+      "item-1-title": "Personal Information:",
+      "item-1-sub-1": "Name",
+      "item-1-sub-2": "Email address",
+      "item-1-sub-3": "Phone number",
+      "item-1-sub-4": "Billing and shipping address",
+      "item-1-sub-5": "Payment information (processed securely through third-party payment processors)",
+      "item-1-sub-6": "Company details (if applicable)",
+      "item-2-title": "Non-Personal Information:",
+      "item-2-sub-1": "IP address",
+      "item-2-sub-2": "Browser type and version",
+      "item-2-sub-3": "Pages visited on our Site",
+      "item-2-sub-4": "Date and time of access",
+      "item-2-sub-5": "Referring URLs"
+    },
+    "point-2": {
+      "title": "2. How We Use Your Information",
+      "item-1-sub-1": "To provide, maintain, and improve our services",
+      "item-1-sub-2": "To process transactions and send order confirmations",
+      "item-1-sub-3": "To respond to inquiries and provide customer support",
+      "item-1-sub-4": "To send promotional communications (only with your consent)",
+      "item-1-sub-5": "To comply with legal obligations",
+      "item-1-sub-6": "To enhance the security of our Site"
+    },
+    "point-3": {
+      "title": "3. How We Share Your Information",
+      "subtitle": "We do not sell your personal information. However, we may share your information in the following circumstances:",
+      "item-1-sub-1": "Service Providers: With third-party vendors who help us operate our business, such as payment processors, hosting providers, and email service providers. These vendors are contractually obligated to handle your information securely and only for the purposes specified by us.",
+      "item-1-sub-2": "Legal Compliance: When required by law or in response to valid legal processes, such as subpoenas or court orders.",
+      "item-1-sub-3": "Business Transfers: In connection with any merger, sale, or transfer of all or part of our business assets, your information may be transferred to the new owner."
+    },
+    "point-4": {
+      "title": "4. Data Security",
+      "subtitle-1": "We do not sell your personal information. However, we may share your information in the following circumstances:",
+      "item-1-sub-1": "Secure Socket Layer (SSL) encryption for data transmission",
+      "item-1-sub-2": "Regular security audits and updates",
+      "item-1-sub-3": "Restricted access to personal information",
+      "item-1-sub-4": "Secure storage of sensitive information",
+      "subtitle-2": "Despite our efforts, no method of data transmission or storage is completely secure. You acknowledge and accept that we cannot guarantee the absolute security of your information."
+    },
+    "point-5": {
+      "title": "5. Your Rights",
+      "item-1-sub-1": "Access: Request a copy of the personal information we hold about you.",
+      "item-1-sub-2": "Correction: Request corrections to any inaccuracies in your information.",
+      "item-1-sub-3": "Deletion: Request the deletion of your personal information, subject to legal obligations.",
+      "item-1-sub-4": "Objection: Object to the processing of your personal information for certain purposes, such as marketing.",
+      "item-1-sub-5": "Data Portability: Request a copy of your personal information in a portable format.",
+      "subtitle-2": "To exercise these rights, please contact us at "
+    },
+    "point-6": {
+      "title": "6. Cookies and Tracking Technologies",
+      "subtitle-1": "We use cookies and similar tracking technologies to enhance your browsing experience. Cookies may collect:",
+      "item-1-sub-1": "User preferences",
+      "item-1-sub-2": "Session information",
+      "item-1-sub-3": "Analytics data",
+      "subtitle-2": "You can manage or disable cookies through your browser settings. However, some Site features may not function properly without cookies."
+    },
+    "point-7": {
+      "title": "7. Third-Party Links",
+      "subtitle": "Our Site may contain links to third-party websites. We are not responsible for the privacy practices of these websites. We encourage you to review their privacy policies before providing them with your information."
+    },
+    "point-8": {
+      "title": "8. Children's Privacy",
+      "subtitle": "Our services are not directed at individuals under the age of 18. We do not knowingly collect personal information from children. If you believe we have collected such information, please contact us immediately."
+    },
+    "point-9": {
+      "title": "9. Updates to This Privacy Policy",
+      "subtitle": "We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated \"Effective Date.\" We encourage you to review this Privacy Policy periodically."
+    },
+    "point-10": {
+      "title": "10. Contact Us",
+      "subtitle": "If you have any questions or concerns about this Privacy Policy or how we handle your personal information, please contact us at:"
+    }
+  },
+  "terms": {
+    "title": "Terms and Conditions for Byte Precision",
+    "subtitle": "Effective Date: January 1, 2025",
+    "welcome": "Welcome to byteprecisionit.com (\"Site\"). These Terms and Conditions (\"Terms\") govern your access to and use of the Site and services provided by Byte Precision (\"we,\" \"our,\" or \"us\"). By accessing or using our Site or services, you agree to comply with and be bound by these Terms. If you do not agree, please do not use our Site or services.",
+    "point-1": {
+      "title": "1. General Information",
+      "item-1-sub-1": "Business Name:",
+      "item-1-sub-2": "Address:",
+      "item-1-sub-3": "Email:",
+      "subtitle-2": "Our services include IT and software solutions for Small & Medium Enterprises (SMEs)."
+    },
+    "point-2": {
+      "title": "2. Eligibility",
+      "subtitle-1": "To use our Site or services, you must be:",
+      "item-1-sub-1": "At least 18 years old or the age of majority in your jurisdiction.",
+      "item-1-sub-2": "Capable of forming a legally binding contract.",
+      "subtitle-2": "OBy using our Site, you represent and warrant that you meet these eligibility requirements."
+    },
+    "point-3": {
+      "title": "3. Use of the Site",
+      "subtitle": "You agree to use the Site and services only for lawful purposes and in accordance with these Terms. Prohibited uses include:",
+      "item-1-sub-1": "Engaging in any fraudulent, unlawful, or harmful activities.",
+      "item-1-sub-2": "Interfering with the operation or security of the Site.",
+      "item-1-sub-3": "Attempting to gain unauthorized access to the Site, servers, or databases.",
+      "item-1-sub-4": "Uploading or transmitting viruses or malicious code."
+    },
+    "point-4": {
+      "title": "4. Account Registration",
+      "subtitle-1": "Certain features of our Site may require you to create an account. You agree to:",
+      "item-1-sub-1": "Provide accurate and complete information.",
+      "item-1-sub-2": "Maintain the confidentiality of your account credentials.",
+      "item-1-sub-3": "Notify us immediately of unauthorized access or use of your account.",
+      "subtitle-2": "We reserve the right to terminate or suspend your account at our discretion."
+    },
+    "point-5": {
+      "title": "5. Services and Payments",
+      "subtitle-1": "A. Services Provided: We offer IT and software services tailored to SMEs.",
+      "subtitle-2": "B. Pricing and Payment:",
+      "item-1-sub-1": "All prices are listed on the Site and are subject to change without notice.",
+      "item-1-sub-2": "Payments must be made through our secure third-party payment processor.",
+      "item-1-sub-3": "You agree to pay all fees and charges associated with your use of our services.",
+      "subtitle-3": "C. Refund Policy: Refunds are subject to the terms outlined in our Refund Policy, available on the Site."
+    },
+    "point-6": {
+      "title": "6. Intellectual Property",
+      "subtitle": "All content on the Site, including text, graphics, logos, images, and software, is the property of Byte Precision or its licensors and is protected by intellectual property laws. You may not reproduce, distribute, or create derivative works without our express written consent."
+    },
+    "point-7": {
+      "title": "7. Third-Party Links",
+      "subtitle": "The Site may contain links to third-party websites. We are not responsible for the content, policies, or practices of these websites. Accessing third-party links is at your own risk."
+    },
+    "point-8": {
+      "title": "8. Disclaimer of Warranties",
+      "subtitle": "The Site and services are provided \"as is\" and \"as available\" without warranties of any kind, express or implied. We disclaim all warranties, including but not limited to merchantability, fitness for a particular purpose, and non-infringement."
+    },
+    "point-9": {
+      "title": "9. Limitation of Liability",
+      "subtitle": "To the fullest extent permitted by law, Byte Precision shall not be liable for any indirect, incidental, consequential, or punitive damages arising from your use of the Site or services, even if we have been advised of the possibility of such damages."
+    },
+    "point-10": {
+      "title": "10. Indemnification",
+      "subtitle": "You agree to indemnify, defend, and hold harmless Byte Precision, its officers, directors, employees, and affiliates from and against any claims, liabilities, damages, losses, or expenses arising from your use of the Site or services or violation of these Terms."
+    },
+    "point-11": {
+      "title": "11. Governing Law",
+      "subtitle": "These Terms are governed by and construed in accordance with the laws of the State of Florida, without regard to its conflict of law principles. Any disputes arising under these Terms shall be resolved in the courts located in Miami, Florida."
+    },
+    "point-12": {
+      "title": "12. Changes to These Terms",
+      "subtitle": "We may update these Terms from time to time. Changes will be posted on this page with an updated \"Effective Date.\" Continued use of the Site after any changes constitutes your acceptance of the revised Terms."
+    },
+    "point-13": {
+      "title": "13. Contact Us",
+      "subtitle": "If you have any questions or concerns about these Terms, please contact us at:"
+    }
+  },
+
+  "languageSwitcher": "Switch from <1>{{lng}}</1> to:"
+}

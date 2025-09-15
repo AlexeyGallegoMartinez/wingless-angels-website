@@ -9,15 +9,24 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@headlessui/react": "^2.2.7",
+    "@heroicons/react": "^2.2.0",
+    "accept-language": "^3.0.20",
+    "aos": "^2.3.4",
+    "i18next": "^25.5.2",
+    "i18next-resources-to-backend": "^1.2.1",
+    "lucide-react": "^0.544.0",
+    "next": "15.5.2",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "next": "15.5.2"
+    "react-i18next": "^15.7.3",
+    "react-icons": "^5.5.0"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.5.2",
-    "@eslint/eslintrc": "^3"
+    "tailwindcss": "^4"
   }
 }

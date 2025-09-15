@@ -1,0 +1,483 @@
+{
+  "home": {
+    "hero": {
+      "heading-title-1": "Todos los niños son",
+      "heading-title-2": "Nuestros niños",
+      "heading-desc": "Ofrecemos servicios compasivos y efectivos de terapia ABA bilingüe para niños con autismo, fomentando su desarrollo y apoyando a las familias en cada paso del camino.",
+      "button-1": "Comienza tu camino",
+      "button-2": "Aprende más",
+      "highlights": {
+        "highlight-1": {
+          "title": "500+",
+          "desc": "Familias atendidas"
+        },
+        "highlight-2": {
+          "title": "15+",
+          "desc": "Años de experiencia"
+        },
+        "highlight-3": {
+          "title": "95%",
+          "desc": "Tasa de éxito"
+        }
+      }
+    },
+    "services": {
+      "heading-title": "Comprendiendo las necesidades únicas de su hijo",
+      "heading-desc": "Nuestro camino comienza con una comprensión profunda de las fortalezas, desafíos y aspiraciones de su hijo. Realizamos evaluaciones exhaustivas para crear planes de terapia personalizados que fomenten el crecimiento y el desarrollo en un entorno de apoyo.",
+      "services": {
+        "service-1": {
+          "title": "Análisis de Conducta Aplicado (ABA)",
+          "desc": "Terapia basada en evidencia enfocada en mejorar la comunicación, las habilidades sociales y en reducir conductas desafiantes."
+        },
+        "service-2": {
+          "title": "Evaluación y Progreso",
+          "desc": "Evaluaciones personalizadas y seguimiento continuo del progreso para guiar planes de terapia efectivos e individualizados."
+        },
+        "service-3": {
+          "title": "Recursos para Cuidadores",
+          "desc": "Orientación, capacitación y herramientas prácticas para ayudar a los cuidadores a establecer rutinas consistentes en el hogar."
+        },
+        "service-4": {
+          "title": "Evaluación Individualizada",
+          "desc": "Evaluación integral y establecimiento de metas personalizadas adaptadas a las fortalezas y necesidades únicas de cada niño."
+        },
+        "service-5": {
+          "title": "Planificación Centrada en la Familia",
+          "desc": "Enfoque colaborativo que involucra a las familias en cada paso, asegurando que las metas se alineen con la vida diaria y las prioridades."
+        },
+        "service-6": {
+          "title": "Apoyo Culturalmente Sensible",
+          "desc": "Servicios bilingües y respeto por los valores culturales, creando un entorno inclusivo y de apoyo para todas las familias."
+        }
+      }
+    },
+    "about": {
+      "heading-title": "Empoderando a cada niño",
+      "who": {
+        "title": "Quiénes somos",
+        "desc-1": " es una agencia privada formada por terapeutas y analistas de conducta certificados en ABA, con amplia experiencia en brindar la más alta calidad de servicios a niños y sus familias. En Wingless Angels, ofrecemos servicios de nivel superior para niños con autismo y sus familias. Nos enfocamos en diversas intervenciones dirigidas a las necesidades específicas de cada individuo, que van desde habilidades de la vida diaria hasta habilidades académicas. Además, ofrecemos una amplia capacitación para padres impartida por un analista de conducta certificado por la junta.",
+        "desc-2": "Integramos prácticas basadas en evidencia con un enfoque compasivo, asegurando que la terapia no solo sea efectiva, sino también atractiva y positiva para su hijo. Nuestro equipo está comprometido en construir relaciones sólidas tanto con los niños como con los padres.",
+        "quote": "“La esperanza es poder ver que hay luz a pesar de toda la oscuridad.” – Desmond Tutu"
+      },
+      "promise": {
+        "title": "Nuestra promesa",
+        "desc-1": "Estamos dedicados a crear programas de conducta personalizados que fomenten la independencia y ayuden a nuestros clientes a alcanzar su máximo potencial. Así como un árbol pierde sus hojas para renovarse, nos esforzamos por apoyar a nuestros clientes en lograr regeneración y resiliencia. Cada niño es único y diferente a su manera. Al reunirnos con las familias, nos enfocamos en las áreas y necesidades específicas del niño. A partir de ahí, desarrollamos un plan que apunte a esas áreas. Estos objetivos cambiarán a medida que se cumplan, evolucionando en nuevas metas para maximizar su desarrollo. Trabajamos de la mano con los cuidadores brindando todos los pasos necesarios para desarrollar y alcanzar estas metas.",
+        "desc-2": "El impacto de una terapia ABA efectiva va más allá del desarrollo de habilidades; empodera a los niños a participar más plenamente en sus comunidades y a lograr una mayor independencia. Celebramos cada logro, grande o pequeño.",
+        "desc-3": "Las familias reportan constantemente mejoras en la comunicación, reducción de conductas desafiantes y un aumento en la confianza de sus hijos. Nuestros servicios están diseñados para traer cambios positivos y duraderos a la vida de su familia.",
+        "caption": "Nuestro equipo dedicado trabajando con un niño en una sesión de terapia ABA de apoyo."
+      }
+    },
+    "testimonials": {
+      "heading-title": "Lo que dicen nuestras familias",
+      "testimonial-1": {
+        "desc": "“Wingless Angels ha sido un faro de esperanza para nuestra familia. Su apoyo bilingüe y sus terapeutas compasivos han marcado una increíble diferencia en el progreso de nuestro hijo.”",
+        "author": "María Rodríguez, Madre"
+      },
+      "cta": {
+        "title-1": "Creando futuros que inspiran ",
+        "title-2": " y brindan esperanza.",
+        "button": "Comienza tu camino"
+      }
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Nuestros servicios",
+      "desc": "Personalizamos nuestros servicios según las necesidades y circunstancias de cada cliente, ofreciendo apoyo bilingüe para que las familias se sientan plenamente comprendidas. Nuestro objetivo es abordar las dificultades de conducta mediante el análisis de datos e implementar planes de tratamiento que ayuden al niño a dominar habilidades importantes para alcanzar su máximo potencial.",
+      "service-1": {
+        "title": "Conductas agresivas",
+        "sub-title": "Incluyen conductas físicas o verbales destinadas a causar daño, como golpear, patear, morder o gritar."
+      },
+      "service-2": {
+        "title": "Conductas autolesivas",
+        "sub-title": "Acciones que una persona dirige hacia sí misma y que resultan en daño, como golpearse la cabeza, morderse o rascarse."
+      },
+      "service-3": {
+        "title": "Destrucción de propiedad",
+        "sub-title": "Dañar o romper objetos, lanzar artículos o destruir de otra manera la propiedad en el entorno."
+      },
+      "service-4": {
+        "title": "Conductas estereotipadas",
+        "sub-title": "Movimientos o vocalizaciones repetitivas como aleteo de manos, balanceo o repetición de ciertas frases."
+      },
+      "service-5": {
+        "title": "Habilidades sociales inapropiadas",
+        "sub-title": "Dificultades con interacciones sociales apropiadas para la edad, como falta de límites, comunicación limitada o retos para formar relaciones."
+      },
+      "service-6": {
+        "title": "Fugas o deambulación",
+        "sub-title": "Salir de un área designada sin permiso o supervisión, lo que a menudo crea riesgos de seguridad."
+      },
+      "service-7": {
+        "title": "Conductas hiperactivas y disruptivas",
+        "sub-title": "Actividad excesiva, inquietud o conductas que interfieren con el aprendizaje y las rutinas diarias."
+      },
+      "service-8": {
+        "title": "Rabietas",
+        "sub-title": "Estallidos emocionales que pueden incluir llanto, gritos, negativa o conductas físicas cuando se imponen demandas o se niega acceso."
+      },
+      "service-9": {
+        "title": "Entre otras",
+        "sub-title": "También abordamos conductas desafiantes adicionales y adaptamos estrategias para satisfacer las necesidades únicas de cada cliente."
+      }
+    },
+    "how": {
+      "title": "Cómo lo hacemos",
+      "how-1": {
+        "title": "Evaluación individualizada",
+        "sub-title": "Cada niño es único. Comenzamos reuniéndonos con las familias para comprender las fortalezas, desafíos y necesidades específicas del niño."
+      },
+      "how-2": {
+        "title": "Desarrollo de metas",
+        "sub-title": "Juntos creamos un plan personalizado que se enfoque en las áreas de crecimiento. Las metas evolucionan conforme se logra el progreso para maximizar el potencial de cada niño."
+      },
+      "how-3": {
+        "title": "Colaboración con la familia",
+        "sub-title": "Trabajamos de la mano con los cuidadores, brindando orientación y apoyo en cada paso del camino para lograr resultados duraderos."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Ponte en contacto",
+      "sub-title": "¿Listo para comenzar tu camino? Estamos aquí para responder tus preguntas y ayudarte a dar el primer paso hacia un apoyo integral para el autismo."
+    },
+    "contact-form": {
+      "form": {
+        "title": "Envíanos un mensaje",
+        "subtitle": "Completa el formulario a continuación y te responderemos en un plazo de 24 horas.",
+        "first-name": "Nombre",
+        "last-name": "Apellido",
+        "email": "Correo electrónico",
+        "phone-number": "Número de teléfono",
+        "subject": "Asunto",
+        "message": "Mensaje",
+        "button": "Enviar mensaje"
+      },
+      "location": {
+        "title": "Nuestra ubicación",
+        "center": "Centro Wingless Angels",
+        "center-desc": "Ubicado en el corazón del centro, con fácil acceso a estacionamiento y transporte público.",
+        "button": "Cómo llegar"
+      },
+      "hours": {
+        "title": "Horario de atención",
+        "weekdays": "Lunes - Viernes",
+        "saturday": "Sábado",
+        "sunday": "Domingo",
+        "holidays": "Días festivos",
+        "emergency-desc": "Solo llamadas de emergencia"
+      },
+      "support": {
+        "title": "Soporte de emergencia",
+        "subtitle": "Si estás atravesando una crisis o necesitas apoyo inmediato, no dudes en comunicarte. Ofrecemos servicios de consulta de emergencia y podemos conectarte con recursos inmediatos.",
+        "button": "Llamar a la línea de crisis: (555) 911-HELP"
+      }
+    },
+    "contact-methods": {
+      "title": "Otras formas de contactarnos",
+      "subtitle": "Elige el método de contacto que mejor se adapte a ti. Nos comprometemos a responder con rapidez.",
+      "cards": {
+        "card-1": {
+          "title": "Teléfono",
+          "mothod": "(555) 123-4567",
+          "method-desc": "Lun-Vie: 8AM-6PM",
+          "cta": "Llámanos para recibir asistencia inmediata o programar una cita"
+        },
+        "card-2": {
+          "title": "Correo electrónico",
+          "mothod": "info@autismcare.com",
+          "method-desc": "Respuesta en 24-48 horas",
+          "cta": "Envíanos tus preguntas o solicitudes de información"
+        },
+        "card-3": {
+          "title": "Línea de crisis",
+          "mothod": "(555) 911-HELP",
+          "method-desc": "Disponible 24/7",
+          "cta": "Apoyo inmediato para situaciones urgentes e intervención en crisis"
+        },
+        "card-4": {
+          "title": "Reservas en línea",
+          "mothod": "Programar en línea",
+          "method-desc": "Disponible 24/7",
+          "cta": "Agenda consultas y citas a tu mejor conveniencia"
+        },
+        "button": "Contactar ahora"
+      },
+      "hours": {
+        "title": "Horario de atención",
+        "weekdays": "Lunes - Viernes",
+        "saturday": "Sábado",
+        "sunday": "Domingo",
+        "holidays": "Días festivos",
+        "emergency-desc": "Solo llamadas de emergencia"
+      },
+      "support": {
+        "title": "Soporte de emergencia",
+        "subtitle": "Si estás atravesando una crisis o necesitas apoyo inmediato, no dudes en comunicarte. Ofrecemos servicios de consulta de emergencia y podemos conectarte con recursos inmediatos.",
+        "button": "Llamar a la línea de crisis: (555) 911-HELP"
+      }
+    },
+    "faqs": {
+      "title": "Preguntas frecuentes",
+      "subtitle": "Encuentra respuestas rápidas a las preguntas más comunes sobre nuestros servicios y procesos.",
+      "cards": {
+        "card-1": {
+          "title": "¿Cómo programo una consulta inicial?",
+          "desc": "Puedes llamarnos, enviarnos un correo electrónico o usar nuestro sistema de reservas en línea. Las consultas iniciales suelen durar 90 minutos."
+        },
+        "card-2": {
+          "title": "¿Aceptan seguros médicos?",
+          "desc": "Sí, aceptamos la mayoría de los planes de seguro principales. Nuestro equipo puede ayudarte a verificar tus beneficios y explicar las opciones de cobertura."
+        },
+        "card-3": {
+          "title": "¿Qué debo llevar a la primera cita?",
+          "desc": "Por favor, trae cualquier evaluación previa, expedientes médicos y una lista de medicamentos o suplementos actuales."
+        },
+        "card-4": {
+          "title": "¿Ofrecen servicios para adultos con autismo?",
+          "desc": "Sí, ofrecemos servicios integrales para personas de todas las edades, desde la primera infancia hasta la edad adulta."
+        }
+      },
+      "hours": {
+        "title": "Horario de atención",
+        "weekdays": "Lunes - Viernes",
+        "saturday": "Sábado",
+        "sunday": "Domingo",
+        "holidays": "Días festivos",
+        "emergency-desc": "Solo llamadas de emergencia"
+      },
+      "support": {
+        "title": "Soporte de emergencia",
+        "subtitle": "Si estás atravesando una crisis o necesitas apoyo inmediato, no dudes en comunicarte. Ofrecemos servicios de consulta de emergencia y podemos conectarte con recursos inmediatos.",
+        "button": "Llamar a la línea de crisis: (555) 911-HELP"
+      }
+    }
+  },
+
+  "cta": {
+    "title": "¿Listo para comenzar tu camino?",
+    "sub-title": "Contáctanos hoy para programar una consulta y conocer cómo podemos apoyarte a ti y a tu familia en este importante proceso.",
+    "button": "Programar consulta"
+  },
+  "about": {
+    "hero": {
+      "title": "Wingless Angels Behavioral Services",
+      "sub-title": "En Wingless Angels ofrecemos análisis de conducta aplicada (ABA) a través de un equipo altamente capacitado y certificado, que incluye Analistas de Conducta Certificados por la Junta (BCBA), Asistentes de Analista de Conducta Certificados (BCaBA) y Técnicos Registrados en Conducta (RBT).",
+      "stats": {
+        "stat-1": {
+          "title": "2012",
+          "desc": "Fundación de la agencia"
+        },
+        "stat-2": {
+          "title": "120+",
+          "desc": "Personas en el equipo"
+        },
+        "stat-3": {
+          "title": "250k",
+          "desc": "Usuarios en la plataforma"
+        },
+        "stat-4": {
+          "title": "$70M",
+          "desc": "Pagados a creadores"
+        }
+      }
+    },
+    "goal": {
+      "title": "Nuestro objetivo",
+      "sub-title-1": "Nuestro objetivo es empoderar a nuestros clientes creando programas de conducta personalizados que fomenten la independencia y utilicen las mejores prácticas para ayudarles a alcanzar su máximo potencial.",
+      "sub-title-2": "Trabajamos de la mano con familias, educadores y comunidades para garantizar que el progreso se extienda más allá de las sesiones de terapia. Al construir alianzas sólidas, ayudamos a crear entornos consistentes donde nuestros clientes puedan prosperar en el hogar, en la escuela y en la vida diaria."
+    },
+    "mission": {
+      "title": "Nuestra misión",
+      "sub-title-1": "Nuestra misión es generar un impacto positivo y duradero en la vida de las personas a las que servimos mediante la prestación de servicios conductuales basados en la evidencia, compasivos y personalizados.",
+      "sub-title-2": "Guiados por la ciencia del Análisis de Conducta Aplicado (ABA), estamos comprometidos a brindar una atención excepcional a través de un equipo de profesionales capacitados y con experiencia. Al colaborar estrechamente con familias y comunidades, garantizamos que cada plan sea significativo, eficaz y diseñado para empoderar a nuestros clientes a alcanzar su máximo potencial."
+    }
+  },
+  "footer": {
+    "services": {
+      "title": "Servicios",
+      "item-1": "Desarrollo de Software",
+      "item-2": "Soluciones en la Nube",
+      "item-3": "Soporte de IT",
+      "item-4": "Integración de API"
+    },
+    "resources": {
+      "title": "Recursos",
+      "item-1": "Blog",
+      "item-2": "Preguntas Frecuentes",
+      "item-3": "Tutoriales",
+      "item-4": "Documentación"
+    },
+    "support": {
+      "title": "Soporte",
+      "item-1": "Contacto",
+      "item-2": "Comunidad",
+      "item-3": "Documentación de API"
+    },
+    "company": {
+      "title": "Empresa",
+      "item-1": "Sobre Nosotros",
+      "item-2": "Nuestra Historia",
+      "item-3": "Certificaciones"
+    },
+    "terms": "Términos",
+    "privacy": "Política de Privacidad"
+  },
+  "privacy-policy": {
+    "title": "Política de Privacidad de Byte Precision IT",
+    "subtitle": "Fecha de Vigencia: 1 de enero de 2025",
+    "welcome": "Bienvenido a Byte Precision IT (\"nosotros,\" \"nuestro\" o \"nos\"). Su privacidad es de suma importancia para nosotros. Esta Política de Privacidad describe cómo recopilamos, usamos, compartimos y protegemos su información personal cuando visita nuestro sitio web (\"Sitio\") en byteprecisionit.com o utiliza nuestros servicios de IT y software para Pequeñas y Medianas Empresas (PYMES). Al acceder a nuestro Sitio o servicios, usted acepta las prácticas descritas en esta Política de Privacidad.",
+    "point-1": {
+      "title": "1. Información que Recopilamos",
+      "subtitle": "Recopilamos información personal y no personal para proporcionar y mejorar nuestros servicios. Esto incluye:",
+      "item-1-title": "Información Personal:",
+      "item-1-sub-1": "Nombre",
+      "item-1-sub-2": "Dirección de correo electrónico",
+      "item-1-sub-3": "Número de teléfono",
+      "item-1-sub-4": "Dirección de facturación y envío",
+      "item-1-sub-5": "Información de pago (procesada de forma segura a través de procesadores de pago de terceros)",
+      "item-1-sub-6": "Detalles de la empresa (si corresponde)",
+      "item-2-title": "Información No Personal:",
+      "item-2-sub-1": "Dirección IP",
+      "item-2-sub-2": "Tipo y versión de navegador",
+      "item-2-sub-3": "Páginas visitadas en nuestro Sitio",
+      "item-2-sub-4": "Fecha y hora de acceso",
+      "item-2-sub-5": "URLs de referencia"
+    },
+    "point-2": {
+      "title": "2. Cómo Usamos Su Información",
+      "item-1-sub-1": "Para proporcionar, mantener y mejorar nuestros servicios",
+      "item-1-sub-2": "Para procesar transacciones y enviar confirmaciones de pedidos",
+      "item-1-sub-3": "Para responder a consultas y proporcionar soporte al cliente",
+      "item-1-sub-4": "Para enviar comunicaciones promocionales (solo con su consentimiento)",
+      "item-1-sub-5": "Para cumplir con obligaciones legales",
+      "item-1-sub-6": "Para mejorar la seguridad de nuestro Sitio"
+    },
+    "point-3": {
+      "title": "3. Cómo Compartimos Su Información",
+      "subtitle": "No vendemos su información personal. Sin embargo, podemos compartir su información en las siguientes circunstancias:",
+      "item-1-sub-1": "Proveedores de Servicios: Con proveedores externos que nos ayudan a operar nuestro negocio, como procesadores de pago, proveedores de alojamiento y servicios de correo electrónico. Estos proveedores están obligados contractualmente a manejar su información de manera segura y solo para los fines especificados por nosotros.",
+      "item-1-sub-2": "Cumplimiento Legal: Cuando lo exija la ley o en respuesta a procesos legales válidos, como citaciones o órdenes judiciales.",
+      "item-1-sub-3": "Transferencias Comerciales: En relación con cualquier fusión, venta o transferencia de todos o parte de los activos de nuestro negocio, su información puede transferirse al nuevo propietario."
+    },
+    "point-4": {
+      "title": "4. Seguridad de los Datos",
+      "subtitle-1": "No vendemos su información personal. Sin embargo, podemos compartir su información en las siguientes circunstancias:",
+      "item-1-sub-1": "Cifrado Secure Socket Layer (SSL) para la transmisión de datos",
+      "item-1-sub-2": "Auditorías y actualizaciones de seguridad periódicas",
+      "item-1-sub-3": "Acceso restringido a la información personal",
+      "item-1-sub-4": "Almacenamiento seguro de información sensible",
+      "subtitle-2": "A pesar de nuestros esfuerzos, ningún método de transmisión o almacenamiento de datos es completamente seguro. Usted reconoce y acepta que no podemos garantizar la seguridad absoluta de su información."
+    },
+    "point-5": {
+      "title": "5. Sus Derechos",
+      "item-1-sub-1": "Acceso: Solicitar una copia de la información personal que tenemos sobre usted.",
+      "item-1-sub-2": "Corrección: Solicitar correcciones a cualquier inexactitud en su información.",
+      "item-1-sub-3": "Eliminación: Solicitar la eliminación de su información personal, sujeto a obligaciones legales.",
+      "item-1-sub-4": "Objeción: Oponerse al procesamiento de su información personal para ciertos fines, como el marketing.",
+      "item-1-sub-5": "Portabilidad de Datos: Solicitar una copia de su información personal en un formato portátil.",
+      "sub-title-2": "Para ejercer estos derechos, contáctenos en "
+    },
+    "point-6": {
+      "title": "6. Cookies y Tecnologías de Seguimiento",
+      "subtitle-1": "Usamos cookies y tecnologías de seguimiento similares para mejorar su experiencia de navegación. Las cookies pueden recopilar:",
+      "item-1-sub-1": "Preferencias del usuario",
+      "item-1-sub-2": "Información de sesión",
+      "item-1-sub-3": "Datos analíticos",
+      "sub-title-2": "Puede gestionar o desactivar las cookies a través de la configuración de su navegador. Sin embargo, algunas funciones del Sitio pueden no funcionar correctamente sin cookies."
+    },
+    "point-7": {
+      "title": "7. Enlaces a Terceros",
+      "subtitle": "Nuestro Sitio puede contener enlaces a sitios web de terceros. No somos responsables de las prácticas de privacidad de estos sitios web. Le recomendamos que revise sus políticas de privacidad antes de proporcionarles su información."
+    },
+    "point-8": {
+      "title": "8. Privacidad de los Niños",
+      "subtitle": "Nuestros servicios no están dirigidos a menores de 18 años. No recopilamos intencionadamente información personal de niños. Si cree que hemos recopilado dicha información, contáctenos de inmediato."
+    },
+    "point-9": {
+      "title": "9. Actualizaciones de Esta Política de Privacidad",
+      "subtitle": "Podemos actualizar esta Política de Privacidad de vez en cuando. Los cambios se publicarán en esta página con una \"Fecha de Vigencia\" actualizada. Le recomendamos que revise periódicamente esta Política de Privacidad."
+    },
+    "point-10": {
+      "title": "10. Contáctenos",
+      "subtitle": "Si tiene alguna pregunta o inquietud sobre esta Política de Privacidad o sobre cómo manejamos su información personal, contáctenos en:"
+    }
+  },
+  "terms": {
+    "title": "Términos y Condiciones para Byte Precision IT",
+    "subtitle": "Fecha de Vigencia: 1 de enero de 2025",
+    "welcome": "Bienvenido a byteprecisionit.com (\"Sitio\"). Estos Términos y Condiciones (\"Términos\") rigen su acceso y uso del Sitio y los servicios proporcionados por Byte Precision IT (\"nosotros,\" \"nuestro\" o \"nos\"). Al acceder o utilizar nuestro Sitio o servicios, usted acepta cumplir y estar sujeto a estos Términos. Si no está de acuerdo, por favor no utilice nuestro Sitio o servicios.",
+    "point-1": {
+      "title": "1. Información General",
+      "item-1-sub-1": "Nombre de la Empresa:",
+      "item-1-sub-2": "Dirección:",
+      "item-1-sub-3": "Correo electrónico:",
+      "subtitle-2": "Nuestros servicios incluyen soluciones de IT y software para Pequeñas y Medianas Empresas (PYMES)."
+    },
+    "point-2": {
+      "title": "2. Elegibilidad",
+      "subtitle-1": "Para usar nuestro Sitio o servicios, usted debe:",
+      "item-1-sub-1": "Tener al menos 18 años o la mayoría de edad en su jurisdicción.",
+      "item-1-sub-2": "Ser capaz de formar un contrato legalmente vinculante.",
+      "subtitle-2": "Al utilizar nuestro Sitio, usted declara y garantiza que cumple con estos requisitos de elegibilidad."
+    },
+    "point-3": {
+      "title": "3. Uso del Sitio",
+      "subtitle": "Usted acepta usar el Sitio y los servicios solo para fines legales y de acuerdo con estos Términos. Los usos prohibidos incluyen:",
+      "item-1-sub-1": "Participar en actividades fraudulentas, ilegales o dañinas.",
+      "item-1-sub-2": "Interferir con la operación o seguridad del Sitio.",
+      "item-1-sub-3": "Intentar obtener acceso no autorizado al Sitio, servidores o bases de datos.",
+      "item-1-sub-4": "Subir o transmitir virus o código malicioso."
+    },
+    "point-4": {
+      "title": "4. Registro de Cuenta",
+      "subtitle-1": "Algunas funciones de nuestro Sitio pueden requerir que cree una cuenta. Usted acepta:",
+      "item-1-sub-1": "Proporcionar información precisa y completa.",
+      "item-1-sub-2": "Mantener la confidencialidad de las credenciales de su cuenta.",
+      "item-1-sub-3": "Notificarnos de inmediato sobre accesos o usos no autorizados de su cuenta.",
+      "subtitle-2": "Nos reservamos el derecho de terminar o suspender su cuenta a nuestra discreción."
+    },
+    "point-5": {
+      "title": "5. Servicios y Pagos",
+      "subtitle-1": "A. Servicios Proporcionados: Ofrecemos servicios de IT y software diseñados para PYMES.",
+      "subtitle-2": "B. Precios y Pago:",
+      "item-1-sub-1": "Todos los precios están listados en el Sitio y están sujetos a cambios sin previo aviso.",
+      "item-1-sub-2": "Los pagos deben realizarse a través de nuestro procesador de pagos seguro de terceros.",
+      "item-1-sub-3": "Usted acepta pagar todas las tarifas y cargos asociados con su uso de nuestros servicios.",
+      "subtitle-3": "C. Política de Reembolsos: Los reembolsos están sujetos a los términos descritos en nuestra Política de Reembolsos, disponible en el Sitio."
+    },
+    "point-6": {
+      "title": "6. Propiedad Intelectual",
+      "subtitle": "Todo el contenido en el Sitio, incluyendo texto, gráficos, logotipos, imágenes y software, es propiedad de Byte Precision IT o sus licenciantes y está protegido por leyes de propiedad intelectual. No puede reproducir, distribuir o crear trabajos derivados sin nuestro consentimiento expreso por escrito."
+    },
+    "point-7": {
+      "title": "7. Enlaces a Terceros",
+      "subtitle": "El Sitio puede contener enlaces a sitios web de terceros. No somos responsables del contenido, políticas o prácticas de estos sitios web. El acceso a enlaces de terceros es bajo su propio riesgo."
+    },
+    "point-8": {
+      "title": "8. Renuncia de Garantías",
+      "subtitle": "El Sitio y los servicios se proporcionan \"tal cual\" y \"según disponibilidad\" sin garantías de ningún tipo, expresas o implícitas. Renunciamos a todas las garantías, incluyendo, pero no limitándose a, comerciabilidad, idoneidad para un propósito particular y no infracción."
+    },
+    "point-9": {
+      "title": "9. Limitación de Responsabilidad",
+      "subtitle": "En la máxima medida permitida por la ley, Byte Precision IT no será responsable de ningún daño indirecto, incidental, consecuente o punitivo que surja de su uso del Sitio o servicios, incluso si hemos sido advertidos de la posibilidad de tales daños."
+    },
+    "point-10": {
+      "title": "10. Indemnización",
+      "subtitle": "Usted acepta indemnizar, defender y eximir de responsabilidad a Byte Precision IT, sus directores, empleados y afiliados contra cualquier reclamación, responsabilidad, daño, pérdida o gasto que surja de su uso del Sitio o servicios o violación de estos Términos."
+    },
+    "point-11": {
+      "title": "11. Ley Aplicable",
+      "subtitle": "Estos Términos se rigen e interpretan de acuerdo con las leyes del Estado de Florida, sin tener en cuenta sus principios de conflicto de leyes. Cualquier disputa que surja bajo estos Términos se resolverá en los tribunales ubicados en Miami, Florida."
+    },
+    "point-12": {
+      "title": "12. Cambios en Estos Términos",
+      "subtitle": "Podemos actualizar estos Términos de vez en cuando. Los cambios se publicarán en esta página con una \"Fecha de Vigencia\" actualizada. El uso continuo del Sitio después de cualquier cambio constituye su aceptación de los Términos revisados."
+    },
+    "point-13": {
+      "title": "13. Contáctenos",
+      "subtitle": "Si tiene alguna pregunta o inquietud sobre estos Términos, contáctenos en:"
+    }
+  }
+}
