@@ -4,7 +4,7 @@ export default function LinkUI({ title, href }) {
   return (
     <Link
       href={href}
-      className="relative overflow-hidden px-10 py-6 text-lg font-semibold text-white rounded-md
+      className="relative overflow-hidden px-5 lg:px-10 py-6 text-lg font-semibold text-white rounded-md
          bg-gradient-to-r from-[hsl(202,86%,23%)] to-[hsl(185,65%,35%)]
          shadow-lg transition-all duration-300
          hover:scale-105 hover:shadow-xl"

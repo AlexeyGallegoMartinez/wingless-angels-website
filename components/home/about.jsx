@@ -13,9 +13,9 @@ export default async function About({ lng }) {
         {t("home.about.heading-title")}
       </h1>
 
-      <div className="flex flex-col md:flex-row gap-5 relative">
+      <div className="flex flex-col lg:flex-row gap-5 relative">
         {/* LEFT SIDE (scrolls with page) */}
-        <div className="w-full md:w-2/3 space-y-6 border border-[hsl(202,86%,23%)]/20 p-10 rounded-2xl">
+        <div className="w-full lg::w-2/3 space-y-6 border border-[hsl(202,86%,23%)]/20 p-10 rounded-2xl">
           {/* Section 1 */}
           <section className="space-y-6">
             <h2 className="text-3xl sm:text-4xl">
@@ -61,7 +61,7 @@ export default async function About({ lng }) {
         </div>
 
         {/* RIGHT SIDE (sticky) */}
-        <div className="w-full md:w-1/3 mt-20 md:mt-0 px-10">
+        <div className="w-full lg::w-1/3 mt-20 lg:mt-0 px-5 lg:px-10">
           <div className="sticky top-20 space-y-12">
             <h2 className="text-3xl sm:text-2xl text-slate-800">
               {t("home.testimonials.heading-title")}

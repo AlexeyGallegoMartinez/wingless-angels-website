@@ -4,7 +4,7 @@ export default async function CTA({ lng }) {
   const { t } = await useTranslation(lng);
 
   return (
-    <div className="mx-auto max-w-2xl text-center pt-20">
+    <div className="mx-auto max-w-2xl text-center pt-20 ld:px-0 px-10">
       <hgroup>
         <p className="mt-2 text-4xl font-semibold tracking-tight text-balance text-[hsl(202,86%,23%)]  sm:text-5xl">
           {t("cta.title")}
