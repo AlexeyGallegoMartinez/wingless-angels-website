@@ -1,5 +1,7 @@
 import { useTranslation } from "@/app/i18n";
 import Map from "../ui/map";
+import Image from "next/image";
+import Logo from "@/public/images/sideIcon.png";
 
 const navigation = {
   solutions: [
@@ -94,10 +96,10 @@ export default async function Footer({ lng }) {
   const { t } = await useTranslation(lng);
 
   return (
-    <footer className="bg-white">
+    <footer className=" bg-white">
       <div className="mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8 lg:py-32">
-        <div className=" border-t border-gray-900/10 pt-12 xl:grid xl:grid-cols-3 xl:gap-8">
-          <div className="flex flex-col items-center md:items-start">
+        <div className="relative border-t border-gray-900/10 pt-12 xl:grid xl:grid-cols-3 xl:gap-8">
+          <div className=" flex flex-col items-center md:items-start">
             <section id="location" className=" mr-0 md:mr-20">
               <Map />
             </section>
@@ -190,7 +192,7 @@ export default async function Footer({ lng }) {
         </div>
         <div className="mt-12 border-t border-gray-900/10 pt-8 md:flex md:items-center md:justify-between">
           <div className="flex justify-center gap-x-6 md:order-2">
-            {navigation.social.map((item) => (
+            {/* {navigation.social.map((item) => (
               <a
                 key={item.name}
                 href={item.href}
@@ -199,7 +201,14 @@ export default async function Footer({ lng }) {
                 <span className="sr-only">{item.name}</span>
                 <item.icon aria-hidden="true" className="size-6" />
               </a>
-            ))}
+            ))} */}
+            <Image
+              src={Logo}
+              alt=""
+              height={100}
+              width={100}
+              className=" h-12 w-auto "
+            />
           </div>
           <p className="mt-8 text-sm/6 text-gray-600 md:order-1 md:mt-0 text-center md:text-start">
             &copy; 2025 Wingless Angels Behavioral Services. All rights

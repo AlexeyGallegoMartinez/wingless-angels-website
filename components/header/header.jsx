@@ -7,6 +7,8 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import { usePathname } from "next/navigation";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
+import Logo from "@/public/images/sideIcon.png";
 
 export default function Header({ lng }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -20,13 +22,18 @@ export default function Header({ lng }) {
     <header className="w-full z-30">
       <nav
         aria-label="Global"
-        className=" flex  items-center justify-around mx-20 lg:px-8 py-10"
+        className=" flex  items-center justify-between md:justify-around mx-10 md:mx-20 lg:px-8 py-10"
       >
         <div className="flex lg:flex-1">
           <a href="#" className="text-lg -m-1.5 p-1.5">
             <span className="sr-only">Wingless Angels</span>
-            Wingless Angels
-            {/* <Image alt="" src={Logo} className="h-10 w-auto" /> */}
+            <Image
+              alt=""
+              height={100}
+              width={100}
+              src={Logo}
+              className="h-12 w-auto"
+            />
           </a>
         </div>
         <div className="flex lg:hidden">
@@ -87,11 +94,13 @@ export default function Header({ lng }) {
           <div className="flex items-center justify-between">
             <a href="#" className="-m-1.5 p-1.5">
               <span className="sr-only"> Wingless Angels</span>
-              {/* <img
+              <Image
                 alt=""
-                src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
+                src={Logo}
+                width={100}
+                height={100}
                 className="h-8 w-auto"
-              /> */}
+              />
             </a>
             <button
               type="button"
